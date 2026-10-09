@@ -202,3 +202,8 @@ body{padding-bottom:72px}
 @media(min-width:900px){.mobile-bar{display:none}body{padding-bottom:0}}
 .site-nav a.btn-primary,.site-nav a.btn-primary[aria-current="page"]{color:#fff;box-shadow:none;border-radius:10px;padding:10px 18px}
 .site-nav a.btn-primary:hover{background:var(--rust-600);color:#fff}
+.btn-wa{background:#25D366;color:#0b3d1c;border-color:#25D366}
+.btn-wa:hover{background:#1ebe5b;color:#062611}
+.btn svg{flex:none}
+.mobile-bar{grid-template-columns:repeat(3,1fr);gap:6px}
+.mobile-bar .btn{padding:10px 6px;font-size:.85rem;gap:5px;white-space:nowrap}
