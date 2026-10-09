@@ -1,7 +1,7 @@
 /* Bola Motors Parts - site script (no tracking, no third-party calls) */
 (function () {
   'use strict';
-  var QUOTE_EMAIL = 'bolamotorsautopartslae@gmail.com';
+  var QUOTE_EMAIL = 'josephweng58@gmail.com';
 
   // Mobile nav
   var toggle = document.querySelector('.nav-toggle');
